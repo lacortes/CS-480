@@ -16,6 +16,7 @@
         android:layout_height="0dp">
 
         <TextView
+            android:id="@+id/answer_text_view"
             android:textSize="88sp"
             android:fontFamily="sans-serif-light"
             android:background="#90A4AE"
@@ -44,8 +45,9 @@
             android:layout_height="0dp">
 
             <Button
+                android:id="@+id/ac_button"
                 android:text="@string/ac"
-                android:textSize="38sp"
+                android:textSize="30sp"
                 android:fontFamily="sans-serif-light"
                 android:textColor="@color/textOnSecondary"
                 android:layout_width="wrap_content"
@@ -54,8 +56,9 @@
                 tools:text="AC"/>
 
             <Button
+                android:id="@+id/plus_minus_button"
                 android:text="@string/plus_minus"
-                android:textSize="38sp"
+                android:textSize="30sp"
                 android:fontFamily="sans-serif-light"
                 android:textColor="@color/textOnSecondary"
                 android:layout_width="wrap_content"
@@ -64,8 +67,9 @@
                 tools:text="+/-"/>
 
             <Button
+                android:id="@+id/percent_button"
                 android:text="@string/percent"
-                android:textSize="38sp"
+                android:textSize="30sp"
                 android:fontFamily="sans-serif-light"
                 android:textColor="@color/textOnSecondary"
                 android:layout_width="wrap_content"
@@ -74,8 +78,9 @@
                 tools:text="%"/>
 
             <Button
+                android:id="@+id/division_button"
                 android:text="@string/division"
-                android:textSize="38sp"
+                android:textSize="30sp"
                 android:fontFamily="sans-serif-light"
                 android:textColor="@color/textOnSecondary"
                 android:layout_width="wrap_content"
@@ -92,8 +97,9 @@
             android:layout_height="0dp">
 
             <Button
+                android:id="@+id/seven_button"
                 android:text="@string/seven"
-                android:textSize="38sp"
+                android:textSize="35sp"
                 android:fontFamily="sans-serif-light"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
@@ -101,8 +107,9 @@
                 tools:text="7"/>
 
             <Button
+                android:id="@+id/eight_button"
                 android:text="@string/eight"
-                android:textSize="38sp"
+                android:textSize="35sp"
                 android:fontFamily="sans-serif-light"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
@@ -110,8 +117,9 @@
                 tools:text="8"/>
 
             <Button
+                android:id="@+id/nine_button"
                 android:text="@string/nine"
-                android:textSize="38sp"
+                android:textSize="35sp"
                 android:fontFamily="sans-serif-light"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
@@ -119,8 +127,9 @@
                 tools:text="9"/>
 
             <Button
+                android:id="@+id/multiplication_button"
                 android:text="@string/times"
-                android:textSize="38sp"
+                android:textSize="30sp"
                 android:fontFamily="sans-serif-light"
                 android:textColor="@color/textOnSecondary"
                 android:layout_width="wrap_content"
@@ -138,8 +147,9 @@
             android:layout_height="0dp">
 
             <Button
+                android:id="@+id/four_button"
                 android:text="@string/four"
-                android:textSize="38sp"
+                android:textSize="35sp"
                 android:fontFamily="sans-serif-light"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
@@ -147,8 +157,9 @@
                 tools:text="4"/>
 
             <Button
+                android:id="@+id/five_button"
                 android:text="@string/five"
-                android:textSize="38sp"
+                android:textSize="35sp"
                 android:fontFamily="sans-serif-light"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
@@ -156,8 +167,9 @@
                 tools:text="5"/>
 
             <Button
+                android:id="@+id/six_button"
                 android:text="@string/six"
-                android:textSize="38sp"
+                android:textSize="35sp"
                 android:fontFamily="sans-serif-light"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
@@ -165,6 +177,7 @@
                 tools:text="6"/>
 
             <Button
+                android:id="@+id/subtraction_button"
                 android:text="@string/minus"
                 android:textSize="38sp"
                 android:fontFamily="sans-serif-light"
@@ -183,8 +196,9 @@
             android:layout_height="0dp">
 
             <Button
+                android:id="@+id/one_button"
                 android:text="@string/one"
-                android:textSize="38sp"
+                android:textSize="35sp"
                 android:fontFamily="sans-serif-light"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
@@ -192,8 +206,9 @@
                 tools:text="1"/>
 
             <Button
+                android:id="@+id/two_button"
                 android:text="@string/two"
-                android:textSize="38sp"
+                android:textSize="35sp"
                 android:fontFamily="sans-serif-light"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
@@ -201,8 +216,9 @@
                 tools:text="2"/>
 
             <Button
+                android:id="@+id/three_button"
                 android:text="@string/three"
-                android:textSize="38sp"
+                android:textSize="35sp"
                 android:fontFamily="sans-serif-light"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
@@ -210,6 +226,7 @@
                 tools:text="3"/>
 
             <Button
+                android:id="@+id/addition_button"
                 android:text="@string/plus"
                 android:textSize="38sp"
                 android:fontFamily="sans-serif-light"
@@ -234,8 +251,9 @@
                 android:background="@drawable/button_custom_numbers"/>
 
             <Button
+                android:id="@+id/zero_button"
                 android:text="@string/zero"
-                android:textSize="38sp"
+                android:textSize="35sp"
                 android:fontFamily="sans-serif-light"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
@@ -243,6 +261,7 @@
                 tools:text="0"/>
 
             <Button
+                android:id="@+id/dot_button"
                 android:text="@string/dot"
                 android:textSize="38sp"
                 android:fontFamily="sans-serif-light"
@@ -253,6 +272,7 @@
                 tools:text="."/>
 
             <Button
+                android:id="@+id/equals_button"
                 android:text="@string/equals"
                 android:textSize="38sp"
                 android:fontFamily="sans-serif-light"

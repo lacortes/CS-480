@@ -9,5 +9,5 @@
     <color name="colorSecondaryDark">#6a0080</color>
 
     <color name="textOnSecondary">#EEEEEE</color>
-    <color name="textOnPrimary">#000000</color>
+    <color name="textOnPrimary">#555555</color>
 </resources>
