@@ -31,9 +31,11 @@ public class MainActivity extends AppCompatActivity {
                     equalsButton;
 
     private TextView answerTextView;
+    private float answer = 0;
+    private boolean isClear, isDivide, isMultiply, isSubtract, isAdd, isEquals;
+    private boolean operatorPressed = false;
 
-    private boolean leadingZero = true; // By default a zero will be displayed
-    private List<Integer> NumberBuffer = new ArrayList<>();
+    private boolean leadingZero = true; // By default a zero will be displayed to the answer window
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -91,7 +93,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 clearLeadingZero();
-                answerTextView.append(zeroButton.getText());
+                updateAnswerView(zeroButton.getText());
+
             }
         });
 
@@ -99,7 +102,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 clearLeadingZero();
-                answerTextView.append(oneButton.getText());
+                updateAnswerView(oneButton.getText());
+
             }
         });
 
@@ -107,7 +111,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 clearLeadingZero();
-                answerTextView.append(twoButton.getText());
+                updateAnswerView(twoButton.getText());
+
             }
         });
 
@@ -115,7 +120,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 clearLeadingZero();
-                answerTextView.append(threeButton.getText());
+                updateAnswerView(threeButton.getText());
+
             }
         });
 
@@ -123,7 +129,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 clearLeadingZero();
-                answerTextView.append(fourButton.getText());
+                updateAnswerView(fourButton.getText());
+
             }
         });
 
@@ -131,7 +138,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 clearLeadingZero();
-                answerTextView.append(fiveButton.getText());
+                updateAnswerView(fiveButton.getText());
+
             }
         });
 
@@ -139,7 +147,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 clearLeadingZero();
-                answerTextView.append(sixButton.getText());
+                updateAnswerView(sixButton.getText());
             }
         });
 
@@ -147,7 +155,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 clearLeadingZero();
-                answerTextView.append(sevenButton.getText());
+                updateAnswerView(sevenButton.getText());
             }
         });
 
@@ -155,7 +163,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 clearLeadingZero();
-                answerTextView.append(eightButton.getText());
+                updateAnswerView(eightButton.getText());
             }
         });
 
@@ -163,7 +171,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 clearLeadingZero();
-                answerTextView.append(nineButton.getText());
+                updateAnswerView(nineButton.getText());
             }
         });
 
@@ -172,8 +180,9 @@ public class MainActivity extends AppCompatActivity {
         clearButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                answerTextView.setText("0");
+                updateAnswerView("0");
                 leadingZero = true;
+                answer = 0.00f;
             }
         });
 
@@ -201,6 +210,8 @@ public class MainActivity extends AppCompatActivity {
         addButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                operatorPressed = true;
+                answer += Float.parseFloat(answerTextView.getText().toString());
 
             }
         });
@@ -239,5 +250,26 @@ public class MainActivity extends AppCompatActivity {
         sevenButton.setClickable(toggle);
         eightButton.setClickable(toggle);
         nineButton.setClickable(toggle);
+    }
+
+    private void updateAnswerView(CharSequence input) {
+        answerTextView.append(input);
+    }
+
+    private float performOperation(float valueOne, float valueTwo, char operator) {
+        float answer = 0.00f;
+        switch(operator) {
+            case '+':
+                break;
+            case '-':
+                break;
+            case '*':
+                break;
+            case '/':
+                break;
+            default:
+
+        }
+        return answer;
     }
 }
