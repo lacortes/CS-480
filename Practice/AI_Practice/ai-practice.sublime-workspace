@@ -1,0 +1,936 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Http",
+				"HttpResponse\tclass"
+			],
+			[
+				"compan",
+				"company_name\tstatement"
+			],
+			[
+				"base",
+				"base_area\tstatement"
+			],
+			[
+				"MONT",
+				"MONTH\tJava Class"
+			],
+			[
+				"len",
+				"length()\tfunc"
+			],
+			[
+				"su",
+				"substring()\tfunc"
+			],
+			[
+				"getDate",
+				"getDateInstance()\tfunc"
+			],
+			[
+				"DateFo",
+				"DATEFORMAT\tJava Class"
+			],
+			[
+				"ar",
+				"arrayOfInts"
+			],
+			[
+				"displ",
+				"displayStars"
+			],
+			[
+				"dis",
+				"displayStars"
+			],
+			[
+				"load",
+				"load-save"
+			],
+			[
+				"solid",
+				"solid_underline"
+			],
+			[
+				"char",
+				"charset\tAttr"
+			],
+			[
+				"meta",
+				"meta\tTag"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"script",
+				"script\tTag"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"bott",
+				"margin-bottom"
+			],
+			[
+				"a",
+				"a\tTag"
+			],
+			[
+				"nav",
+				"nav\tTag"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"E",
+				"E5F4E3"
+			],
+			[
+				"h2",
+				"h2\tTag"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"sec",
+				"section\tTag"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"ul",
+				"ul\tTag"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"Strin",
+				"StringBuilder"
+			],
+			[
+				"writer",
+				"writer"
+			],
+			[
+				"n",
+				"null"
+			],
+			[
+				"input",
+				"InputStreamReader"
+			],
+			[
+				"SER",
+				"ServerListener"
+			],
+			[
+				"enc",
+				"encryptedSessionKey"
+			],
+			[
+				"gener",
+				"generateSessionKey"
+			],
+			[
+				"en",
+				"encryptedSessionKey"
+			],
+			[
+				"Key",
+				"KeyGenerator"
+			],
+			[
+				"Obj",
+				"ObjectInputStream"
+			],
+			[
+				"Object",
+				"ObjectOutputStream"
+			],
+			[
+				"fil",
+				"fileSize"
+			],
+			[
+				"Fil",
+				"FileOutputStream"
+			],
+			[
+				"file",
+				"fileOutStream"
+			],
+			[
+				"chu",
+				"chunkLen"
+			],
+			[
+				"session",
+				"sessionKey"
+			],
+			[
+				"out",
+				"outputStream"
+			],
+			[
+				"objec",
+				"ObjectOutputStream"
+			],
+			[
+				"AC",
+				"AckMessage"
+			],
+			[
+				"File",
+				"FileInputStream"
+			],
+			[
+				"ms",
+				"msgType"
+			],
+			[
+				"pri",
+				"privateKey"
+			],
+			[
+				"pr",
+				"private"
+			],
+			[
+				"o",
+				"ObjectOutputStream"
+			],
+			[
+				"public",
+				"publicKey"
+			],
+			[
+				"bor",
+				"boardMsg"
+			],
+			[
+				"boar",
+				"board"
+			],
+			[
+				"Me",
+				"MessageType"
+			],
+			[
+				"board",
+				"boardMsg"
+			],
+			[
+				"move",
+				"moveMsg"
+			],
+			[
+				"bora",
+				"boardMsg"
+			],
+			[
+				"boa",
+				"boardMsg"
+			],
+			[
+				"Ob",
+				"ObjectOutPutStream"
+			],
+			[
+				"O",
+				"ObjectInputStream"
+			],
+			[
+				"wai",
+				"waitForValue"
+			],
+			[
+				"sy",
+				"synchronized"
+			],
+			[
+				"image",
+				"imageButton"
+			],
+			[
+				"rea",
+				"readmessage"
+			],
+			[
+				"pu",
+				"publish"
+			],
+			[
+				"Read",
+				"readMessage"
+			],
+			[
+				"th",
+				"throws"
+			],
+			[
+				"gaem",
+				"gameBoard"
+			],
+			[
+				"Bor",
+				"BoardMessage"
+			],
+			[
+				"Board",
+				"BoardMessage"
+			],
+			[
+				"Boar",
+				"BoardMessage"
+			],
+			[
+				"Game",
+				"gameBoard"
+			],
+			[
+				"Lit",
+				"ListenForMessage"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"LI",
+				"ListenForMessage"
+			],
+			[
+				"Listen",
+				"ListenForMessage"
+			],
+			[
+				"M",
+				"MessageType"
+			],
+			[
+				"Message",
+				"MessageType"
+			],
+			[
+				"imag",
+				"imageButtons"
+			],
+			[
+				"Obje",
+				"ObjectOutputStream"
+			],
+			[
+				"List",
+				"ListenForMessage"
+			],
+			[
+				"Tic",
+				"TicTacToeClient"
+			],
+			[
+				"Ti",
+				"TicTacToeClient"
+			],
+			[
+				"get",
+				"getBoard"
+			],
+			[
+				"Bo",
+				"BoardMessage"
+			],
+			[
+				"game",
+				"gameBoard"
+			],
+			[
+				"Comm",
+				"CommandMessage"
+			],
+			[
+				"letter",
+				"letterO"
+			],
+			[
+				"gam",
+				"gameBoard"
+			],
+			[
+				"ga",
+				"gameBoard"
+			],
+			[
+				"pritn",
+				"printStackTrace"
+			],
+			[
+				"Im",
+				"ImageButton"
+			],
+			[
+				"I",
+				"ImageButtonActionPerformed"
+			],
+			[
+				"Act",
+				"ActionListener"
+			],
+			[
+				"col",
+				"col_index"
+			],
+			[
+				"row",
+				"row_index"
+			],
+			[
+				"se",
+				"sendTime"
+			],
+			[
+				"rec",
+				"receiveTime"
+			],
+			[
+				"port",
+				"portNumber"
+			],
+			[
+				"des",
+				"destinationAdd"
+			],
+			[
+				"ran",
+				"randomData"
+			],
+			[
+				"ra",
+				"randomData"
+			],
+			[
+				"data",
+				"datagramLength"
+			],
+			[
+				"ou",
+				"outgoing"
+			],
+			[
+				"dest",
+				"destAddr"
+			],
+			[
+				"por",
+				"portNumber"
+			],
+			[
+				"W",
+				"WINDOW_HEIGHT"
+			],
+			[
+				"tic",
+				"TicTacToeClient"
+			],
+			[
+				"ip",
+				"ipPacket"
+			],
+			[
+				"pay",
+				"payloadLen"
+			],
+			[
+				"make",
+				"makePacket"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "bul",
+		"selected_items":
+		[
+			[
+				"bul",
+				"Javatar: Builds..."
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: if",
+				"Snippet: If Condition"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: b",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: add pack",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"set ",
+				"Set Syntax: Java"
+			],
+			[
+				"set",
+				"Set Syntax: Java"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Set Syntax",
+				"Set Syntax: Java"
+			],
+			[
+				"License",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"SASS",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"exit",
+			"exit()",
+			"clear",
+			"javac",
+			"java",
+			"clear",
+			"print(\"Hello\" )",
+			"cd /",
+			"ls",
+			"clear",
+			"exit()",
+			"exit",
+			"ls",
+			"clear",
+			"javac ",
+			"java",
+			"javac",
+			"exit",
+			"ls",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/luis_cortes/Computer_Science/CS_480/Practice/AI_Practice",
+		"/Users/luis_cortes/Computer_Science/CS_480/Practice/AI_Practice/jar",
+		"/Users/luis_cortes/Computer_Science/CS_480/Practice/AI_Practice/src",
+		"/Users/luis_cortes/Computer_Science/CS_480/Practice/AI_Practice/src/main",
+		"/Users/luis_cortes/Computer_Science/CS_480/Practice/AI_Practice/src/main/java"
+	],
+	"file_history":
+	[
+		"/Users/luis_cortes/Computer_Science/CS_480/Practice/AI_Practice/src/main/java/App.java",
+		"/Users/luis_cortes/Computer_Science/CS_480/Practice/AI_Practice/ai-practice.sublime-project",
+		"/Users/luis_cortes/Computer_Science/CS_480/Practice/AI_Practice/jar/java-sdk-4.0.0.jar",
+		"/Users/luis_cortes/Library/Application Support/Sublime Text 3/Packages/User/JavaImports.sublime-settings",
+		"/Users/luis_cortes/Library/Application Support/Sublime Text 3/Packages/JavaImports/JavaImports.sublime-settings",
+		"/Users/luis_cortes/Computer_Science/CS_435/queries.sql",
+		"/Users/luis_cortes/Desktop/datacamp_sql.txt",
+		"/Users/luis_cortes/Desktop/SmsProject/sms_Java/build.gradle",
+		"/Users/luis_cortes/Computer_Science/CS_435/database.sql",
+		"/Users/luis_cortes/virtualenvs/myproject/myproject/urls.py",
+		"/Users/luis_cortes/virtualenvs/myproject/boards/views.py",
+		"/Users/luis_cortes/virtualenvs/myproject/myproject/settings.py",
+		"/Users/luis_cortes/Desktop/calculator.java",
+		"/Users/luis_cortes/Downloads/aazea.com_0133970779.rar",
+		"/Users/luis_cortes/Desktop/hello_world/greetings/views.py",
+		"/Users/luis_cortes/Computer Science/CS 380/Exercises/Exercise_8/WebServer.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Exercises/Exercise_8/ConnectionListener.java",
+		"/Users/luis_cortes/Computer Science/CS 299/Labs/Lab_2/lab_2.py",
+		"/Users/luis_cortes/Desktop/SmsProject/sms_python/send_sms.py",
+		"/Users/luis_cortes/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/luis_cortes/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/luis_cortes/Computer Science/CS 299/Labs/Lab_3/lab_3.py",
+		"/Users/luis_cortes/Desktop/SmsProject/sms_python/test.sh",
+		"/Users/luis_cortes/Computer Science/CS 299/Labs/BonusLab1.py",
+		"/Users/luis_cortes/Computer Science/CS 299/Labs/lab_1.py",
+		"/Users/luis_cortes/Documents/Python_Practice/No_Starch_Python/Chapter2/Printing.py",
+		"/Users/luis_cortes/Documents/Python_Practice/No_Starch_Python/Chapter3/Lists.py",
+		"/Users/luis_cortes/Documents/Python_Practice/No_Starch_Python/Chapter2/PersonalMessage.py",
+		"/Users/luis_cortes/Documents/Python_Practice/No_Starch_Python/Chapter2/#!:usr:local:bin:python3.py",
+		"/Users/luis_cortes/Desktop/dateDemo.java",
+		"/Users/luis_cortes/Documents/Python_Practice/demo.py",
+		"/Users/luis_cortes/Documents/Python_Practice/example.cpp",
+		"/Users/luis_cortes/Documents/Python_Practice/Exercies/ex3.py",
+		"/Users/luis_cortes/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/luis_cortes/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/luis_cortes/Documents/Python_Practice/Exercies/ex2.py",
+		"/Users/luis_cortes/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/luis_cortes/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/luis_cortes/Documents/Python_Practice/demo.java",
+		"/Users/luis_cortes/Desktop/binary.java",
+		"/Users/luis_cortes/Python_Practice/demo.py",
+		"/Users/luis_cortes/Downloads/front-end-dev-resources/book-solutions/Chapter 04/ottergram/stylesheets/styles.css",
+		"/Users/luis_cortes/WebsiteProjects/Web_Resume/stylesheet.css",
+		"/Users/luis_cortes/WebsiteProjects/Web_Resume/index.html",
+		"/Users/luis_cortes/Computer Science/CS 380/Project_1/EchoServer.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Project_1/Chat/ChatClient.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Project_7/FileTransfer.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Exercises/Exercise_1/EchoClient.java",
+		"/Users/luis_cortes/Documents/Web_Resume/index.html",
+		"/Users/luis_cortes/Desktop/Responsive-Design/psd-to-wp-master/style.css",
+		"/Users/luis_cortes/Desktop/Responsive-Design/psd-to-wp-master/index.html",
+		"/Users/luis_cortes/Documents/Web_Resume/stylesheet.css",
+		"/Users/luis_cortes/Documents/Web/stylesheet.css",
+		"/Users/luis_cortes/Documents/Web/file.html",
+		"/Users/luis_cortes/Desktop/EchoClient.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Exercises/Exercise_8/www/fileNotFound.html",
+		"/Users/luis_cortes/Computer Science/CS 380/Exercises/Exercise_8/www/hello.html",
+		"/Users/luis_cortes/Computer Science/CS 380/Exercises/Exercise_1/EchoServer.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Project_6_2/TicTacToeClient.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Project_7/ServerMode.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Project_3/Ipv4.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Project_5/UdpClient.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Project_7/ClientMode.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Project_7/clientMode.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Project_6/Serialization.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Project_6/ImageButton.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Project_7/FileTrasfer.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Project_5/Ipv4.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Project_6/TicTacToeClient.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Project_4/Ipv6Client.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Project_4/Ipv6.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Project_3/Ipv4Client.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Exercises/Exercise_1/Threads.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Exercises/Exercise_3/Ex3Client.java",
+		"/Users/luis_cortes/Desktop/sniffex.c",
+		"/Users/luis_cortes/Computer Science/CS 380/Exercises/Exercise_2/Ex2Client.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Project_2/PhysLayerClient.java",
+		"/Users/luis_cortes/Practice Chat/Server.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Thread_Examples/Chapter_1/Making_Threads/HelloThread.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Thread_Examples/Chapter_1/Making_Threads/HelloRunnable.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Thread_Examples/Chapter_1/Threads_01_02.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Thread_Examples/Chapter_1/HelloRunnable.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Thread_Examples/Chapter_1/HelloThread.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Threading/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_02/Threads_01_02/src/threads_01_02/HelloRunnable.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Threading/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_02/Threads_01_02/src/threads_01_02/HelloThread.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Threading/Ex_Files_Managing_Threads_Java/Exercise Files/Ch01/01_02/Threads_01_02/src/threads_01_02/Threads_01_02.java",
+		"/Users/luis_cortes/Computer Science/CS 380/Threading/Threads_01_02.java",
+		"/Users/luis_cortes/NGCP/UUVMAIN/Serial.cs",
+		"/Users/luis_cortes/NGCP/UUVMAIN/Program.cs",
+		"/Users/luis_cortes/NGCP/UUVMAIN/Sonar.cs",
+		"/Users/luis_cortes/NGCP/Ex_Files_C_Sharp_EssT/Exercise Files/07_Collections/SimpleArrays/ConsoleApp/Program.cs",
+		"/Users/luis_cortes/Computer Science/CS 311/Project 2/DynamicFSA.java",
+		"/Users/luis_cortes/Computer Science/CS 311/Project 2/project2.java",
+		"/Users/luis_cortes/NGCP/UUVMAIN/Link.cs",
+		"/Users/luis_cortes/Computer Science/CS 241_2/Graph/CortesLp3.java",
+		"/Users/luis_cortes/NGCP/UUVMAIN/microcontroller.cs",
+		"/Users/luis_cortes/Computer Science/CS 264/Labs/lab3_2.asm",
+		"/Users/luis_cortes/Computer Science/CS 264/Labs/lab3.asm",
+		"/Users/luis_cortes/Computer Science/CS 311/Project 2/reg.java",
+		"/Users/luis_cortes/Computer Science/CS 311/Project 2/test.java",
+		"/Users/luis_cortes/Computer Science/CS 311/Project1/finiteAutomation.java",
+		"/Users/luis_cortes/Computer Science/CS 311/Project1/proj1/FiniteMachine.java",
+		"/Users/luis_cortes/Computer Science/CS 245/Sokuku/Soduku.java",
+		"/Users/luis_cortes/Computer Science/CS 245/Sudoku.java",
+		"/Users/luis_cortes/Computer Science/CS 245/Sokuku/driver.java",
+		"/Users/luis_cortes/Documents/Arduino/WaterVehicle/WaterVehicle.cpp",
+		"/Users/luis_cortes/Documents/Arduino/WaterVehicle/WaterVehicle.h",
+		"/Users/luis_cortes/Computer Science/CS 311/Project1/FiniteMachine.java",
+		"/Users/luis_cortes/Downloads/mipsdemo(1).asm",
+		"/Users/luis_cortes/Computer Science/CS 264/mips.asm",
+		"/Users/luis_cortes/Computer Science/CS 264/lab1.txt",
+		"/Users/luis_cortes/Computer Science/CS 264/mipsdemo.asm",
+		"/Users/luis_cortes/Computer Science/CS 264/mine.asm",
+		"/Users/luis_cortes/Computer Science/CS 241_2/BST/project1_luisCortes.java",
+		"/Users/luis_cortes/Computer Science/CS 311/Project1/Books.java",
+		"/Users/luis_cortes/Computer Science/CS 245/Practice/threadDemo.java",
+		"/Users/luis_cortes/Computer Science/CS 245/Practice/ShowWindow.java",
+		"/Users/luis_cortes/Computer Science/CS 245/Practice/SimpleWindow.java",
+		"/Users/luis_cortes/Computer Science/CS 245/Practice/kiloConverter.java",
+		"/Users/luis_cortes/Computer Science/CS 245/Practice/SimpleWindowDemo.java",
+		"/Users/luis_cortes/Computer Science/CS 245/Practice/threadDemo",
+		"/Users/luis_cortes/Computer Science/CS 245/Practice/SimpleEx.java",
+		"/hello.java",
+		"/Users/luis_cortes/Desktop/test/Hello.java",
+		"/Users/luis_cortes/Library/Application Support/Sublime Text 3/Packages/User/Glue.sublime-settings",
+		"/Users/luis_cortes/Library/Application Support/Sublime Text 3/Packages/Javatar/README.md",
+		"/Users/luis_cortes/Library/Application Support/Sublime Text 3/Packages/Javatar/Developers/Proto.javatar-packages",
+		"/Users/luis_cortes/Computer Science/CS 241_2/Graph/Corteslp3.java"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 48.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ai-practice.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Computer Science/CS 260/atm/atm.bash"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 120.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
